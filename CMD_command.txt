@@ -1,0 +1,1 @@
+pyinstaller -F --noconsole --icon=logo_ldb.ico LocalStatistic.py
